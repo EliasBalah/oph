@@ -1,0 +1,17 @@
+.oph-main {
+    margin: 0;
+    padding: 8px;
+    height: 120vh;
+    background-color: lightgray;
+    &-mainContainer {
+        
+        &-squares {
+            display: table-cell;
+            &-square {
+                height: 10px;
+                width: 10px;
+                border: 1px solid red;
+            }
+        }
+    }
+}

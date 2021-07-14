@@ -1,0 +1,15 @@
+.oph-footer {
+    margin: 0;
+    padding: 8px;
+    background-color: #333;
+    justify-content: center;
+    align-items: center;
+    &-footerContainer {
+        font-size: 1.1rem;
+        line-height: 22px;
+        font-family: AmazonEmber,Helvetica Neue,Helvetica,Arial,sans-serif;
+        font-weight: 400;
+        color: #eaeded;
+        text-align: center;
+    }
+}
